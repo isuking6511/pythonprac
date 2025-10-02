@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+pydantic-settings
+httpx
+pytest
+pytest-asyncio
+python-jose[cryptography]
+passlib[bcrypt]
+prometheus-fastapi-instrumentator
+python-multipart
